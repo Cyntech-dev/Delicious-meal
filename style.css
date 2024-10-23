@@ -1,49 +1,19 @@
-.nav-item{
-    font-size: 1.3rem;
+.container-fluid .yes{
+   background-color: lightgray;
+   padding: 30px;
 }
-.nav-item:hover{
-    background-color: blue;
-    border-radius: 20px;
-}
- .container .food{
-    display: flex;
-    margin-top: 180px;
-    text-align: center;
-    justify-content: center;
-    font-size: 7rem;
-    font-weight: bolder;
-    color: white;
-    
- }
- .hero{
-    background: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.36)), url(https://www.shutterstock.com/image-photo/unhealthy-products-food-bad-figure-260nw-1043372752.jpg);
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    min-height: 100vh;
- }
- .para{
-    color: white;
-    font-size: 1,3rem;
- }
- .card{
-    box-shadow: 0px 4px 10px 0px;
-    padding: 10px;
- }
- .menu{
-    text-shadow: 4px 4px 2px rgba(0,0,0,0.5);
-    font-weight: bolder;
- }
- .card-img-top{
-   width: 100px;
-   height: auto;
-   max-height: 150px;
-   object-fit: cover;
- }
- .contact{
-   color: white;
-   text-shadow: 4px 4px 2px rgba(0,0,0,0.5);
-    font-weight: bolder;
 
- }
- 
+.container h2{
+   
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: bolder;
+}
+.container-fluid .love{
+   font-size: 3rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button .btn{
+margin-right: 100px;
+}
+
